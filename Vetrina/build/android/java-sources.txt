@@ -1,6 +1,0 @@
-"F:/android/titanium/Vetrina/build/android/gen/com/oinari/vetrina/ApplicationStylesheet.java"
-"F:/android/titanium/Vetrina/build/android/gen/com/oinari/vetrina/AssetCryptImpl.java"
-"F:/android/titanium/Vetrina/build/android/gen/com/oinari/vetrina/DemoOinariActivity.java"
-"F:/android/titanium/Vetrina/build/android/gen/com/oinari/vetrina/DemoOinariAppInfo.java"
-"F:/android/titanium/Vetrina/build/android/gen/com/oinari/vetrina/DemoOinariApplication.java"
-"F:/android/titanium/Vetrina/build/android/gen/com/oinari/vetrina/R.java"
